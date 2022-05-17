@@ -1,11 +1,12 @@
 ## Blockchain Sync
 
 ### Requirements
+**NB:** Python3
 
 Install dependencies.
 
 ```
-sudo apt install libleveldb-dev
+sudo apt install libleveldb-dev python3 python3-pip python-is-python3
 pip install -r requirements.txt
 ```
 
